@@ -1,5 +1,5 @@
 # FNF Forgotten FunFair - Source code
-Based on Shadow Mario's [Psych Engine]([https://gamebanana.com/mods/301107](https://github.com/ShadowMario/FNF-PsychEngine))
+Based on Shadow Mario's [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine))
 
 # y eso po
 

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menusilueta.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="silueta0000" x="10" y="10" width="797" height="737"/>
+	<SubTexture name="silueta0001" x="10" y="10" width="797" height="737"/>
+	<SubTexture name="silueta0002" x="10" y="10" width="797" height="737"/>
+	<SubTexture name="silueta0003" x="10" y="10" width="797" height="737"/>
+	<SubTexture name="silueta0004" x="817" y="10" width="797" height="737"/>
+	<SubTexture name="silueta0005" x="817" y="10" width="797" height="737"/>
+	<SubTexture name="silueta0006" x="817" y="10" width="797" height="737"/>
+	<SubTexture name="silueta0007" x="817" y="10" width="797" height="737"/>
+	<SubTexture name="talking silueta0000" x="1624" y="10" width="777" height="756" frameX="-10" frameY="0" frameWidth="797" frameHeight="756"/>
+	<SubTexture name="talking silueta0001" x="1624" y="10" width="777" height="756" frameX="-10" frameY="0" frameWidth="797" frameHeight="756"/>
+	<SubTexture name="talking silueta0002" x="1624" y="10" width="777" height="756" frameX="-10" frameY="0" frameWidth="797" frameHeight="756"/>
+	<SubTexture name="talking silueta0003" x="1624" y="10" width="777" height="756" frameX="-10" frameY="0" frameWidth="797" frameHeight="756"/>
+	<SubTexture name="talking silueta0004" x="817" y="10" width="797" height="737" frameX="0" frameY="-19" frameWidth="797" frameHeight="737"/>
+	<SubTexture name="talking silueta0005" x="817" y="10" width="797" height="737" frameX="0" frameY="-19" frameWidth="797" frameHeight="737"/>
+	<SubTexture name="talking silueta0006" x="817" y="10" width="797" height="737" frameX="0" frameY="-19" frameWidth="797" frameHeight="737"/>
+	<SubTexture name="talking silueta0007" x="817" y="10" width="797" height="737" frameX="0" frameY="-19" frameWidth="797" frameHeight="737"/>
+</TextureAtlas>

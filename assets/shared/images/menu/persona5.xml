@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="persona5.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="persona5box0000" x="10" y="10" width="1200" height="278" frameX="0" frameY="-3" frameWidth="1200" frameHeight="281"/>
+	<SubTexture name="persona5box0001" x="10" y="10" width="1200" height="278" frameX="0" frameY="-3" frameWidth="1200" frameHeight="281"/>
+	<SubTexture name="persona5box0002" x="10" y="10" width="1200" height="278" frameX="0" frameY="-3" frameWidth="1200" frameHeight="281"/>
+	<SubTexture name="persona5box0003" x="10" y="298" width="1196" height="272" frameX="0" frameY="-7" frameWidth="1200" frameHeight="281"/>
+	<SubTexture name="persona5box0004" x="10" y="298" width="1196" height="272" frameX="0" frameY="-7" frameWidth="1200" frameHeight="281"/>
+	<SubTexture name="persona5box0005" x="10" y="298" width="1196" height="272" frameX="0" frameY="-7" frameWidth="1200" frameHeight="281"/>
+	<SubTexture name="persona5box0006" x="10" y="580" width="1200" height="281"/>
+	<SubTexture name="persona5box0007" x="10" y="580" width="1200" height="281"/>
+	<SubTexture name="persona5box0008" x="10" y="580" width="1200" height="281"/>
+	<SubTexture name="persona5spawn0000" x="1220" y="580" width="100" height="317" frameX="-535" frameY="-88" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0001" x="1220" y="580" width="100" height="317" frameX="-535" frameY="-88" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0002" x="10" y="907" width="1024" height="327" frameX="-94" frameY="-56" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0003" x="10" y="907" width="1024" height="327" frameX="-94" frameY="-56" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0004" x="10" y="1244" width="1245" height="192" frameX="0" frameY="-171" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0005" x="10" y="1244" width="1245" height="192" frameX="0" frameY="-171" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0006" x="10" y="1244" width="1245" height="192" frameX="0" frameY="-171" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0007" x="10" y="1446" width="1200" height="217" frameX="-23" frameY="-159" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0008" x="10" y="1446" width="1200" height="217" frameX="-23" frameY="-159" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0009" x="10" y="1446" width="1200" height="217" frameX="-23" frameY="-159" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0010" x="10" y="1673" width="1197" height="225" frameX="-24" frameY="-155" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0011" x="10" y="1673" width="1197" height="225" frameX="-24" frameY="-155" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0012" x="10" y="1673" width="1197" height="225" frameX="-24" frameY="-155" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0013" x="10" y="1908" width="1200" height="353" frameX="-23" frameY="-23" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0014" x="10" y="1908" width="1200" height="353" frameX="-23" frameY="-23" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0015" x="10" y="2271" width="1200" height="376" frameX="-23" frameY="0" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0016" x="10" y="2271" width="1200" height="376" frameX="-23" frameY="0" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0017" x="10" y="2657" width="1200" height="285" frameX="-23" frameY="-91" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0018" x="10" y="2657" width="1200" height="285" frameX="-23" frameY="-91" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0019" x="10" y="2657" width="1200" height="285" frameX="-23" frameY="-91" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0020" x="10" y="2952" width="1200" height="278" frameX="-23" frameY="-98" frameWidth="1245" frameHeight="405"/>
+	<SubTexture name="persona5spawn0021" x="10" y="2952" width="1200" height="278" frameX="-23" frameY="-98" frameWidth="1245" frameHeight="405"/>
+</TextureAtlas>

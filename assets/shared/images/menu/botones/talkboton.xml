@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="talkboton.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk pushed0000" x="10" y="10" width="295" height="306"/>
+	<SubTexture name="talk pushed0001" x="10" y="10" width="295" height="306"/>
+	<SubTexture name="talk pushed0002" x="315" y="10" width="295" height="306"/>
+	<SubTexture name="talk pushed0003" x="315" y="10" width="295" height="306"/>
+	<SubTexture name="talk selected0000" x="10" y="10" width="295" height="306"/>
+	<SubTexture name="talk static0000" x="315" y="10" width="295" height="306"/>
+</TextureAtlas>

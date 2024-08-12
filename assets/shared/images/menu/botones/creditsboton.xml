@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="creditsboton.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits pushed0000" x="10" y="10" width="325" height="666"/>
+	<SubTexture name="credits pushed0001" x="10" y="10" width="325" height="666"/>
+	<SubTexture name="credits pushed0002" x="345" y="10" width="325" height="666"/>
+	<SubTexture name="credits pushed0003" x="345" y="10" width="325" height="666"/>
+	<SubTexture name="credits selected0000" x="10" y="10" width="325" height="666"/>
+	<SubTexture name="credits static0000" x="680" y="10" width="325" height="666"/>
+</TextureAtlas>

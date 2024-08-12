@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="startboton.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="start pushed0000" x="10" y="10" width="341" height="307"/>
+	<SubTexture name="start pushed0001" x="10" y="10" width="341" height="307"/>
+	<SubTexture name="start pushed0002" x="10" y="327" width="341" height="307"/>
+	<SubTexture name="start pushed0003" x="10" y="327" width="341" height="307"/>
+	<SubTexture name="start selected0000" x="10" y="10" width="341" height="307"/>
+	<SubTexture name="start static0000" x="10" y="644" width="341" height="307"/>
+</TextureAtlas>

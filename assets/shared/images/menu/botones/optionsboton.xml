@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="optionsboton.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options pushed0000" x="10" y="10" width="398" height="664"/>
+	<SubTexture name="options pushed0001" x="10" y="10" width="398" height="664"/>
+	<SubTexture name="options pushed0002" x="10" y="684" width="398" height="664"/>
+	<SubTexture name="options pushed0003" x="10" y="684" width="398" height="664"/>
+	<SubTexture name="options selected0000" x="10" y="10" width="398" height="664"/>
+	<SubTexture name="options static0000" x="10" y="1358" width="398" height="664"/>
+</TextureAtlas>

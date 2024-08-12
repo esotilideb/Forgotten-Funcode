@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pasaselda.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="selda vvvv0000" x="10" y="10" width="582" height="645"/>
+	<SubTexture name="selda vvvv0001" x="10" y="10" width="582" height="645"/>
+	<SubTexture name="selda vvvv0002" x="10" y="10" width="582" height="645"/>
+	<SubTexture name="selda vvvv0003" x="10" y="10" width="582" height="645"/>
+	<SubTexture name="selda vvvv0004" x="10" y="665" width="582" height="645"/>
+	<SubTexture name="selda vvvv0005" x="10" y="665" width="582" height="645"/>
+	<SubTexture name="selda vvvv0006" x="10" y="665" width="582" height="645"/>
+	<SubTexture name="selda vvvv0007" x="10" y="665" width="582" height="645"/>
+</TextureAtlas>
